@@ -1,1 +1,1 @@
-# Transparecy using alpha channel
+Transparecy using alpha channel
